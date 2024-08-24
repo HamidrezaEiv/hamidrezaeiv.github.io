@@ -3,9 +3,9 @@ github_users:
 
 github_repos:
   - HamidrezaEiv/KPCA-DeepONet
-  - HamidrezaEiv/FE2-Computations-With-Deep-Neural-Networks
-  - KTH-FlowAI/Physics-informed-neural-networks-for-solving-Reynolds-averaged-Navier-Stokes-equations
-  - KTH-FlowAI/Physics-informed-deep-learning-applications-to-experimental-fluid-mechanics
-  - KTH-FlowAI/Towards-extraction-of-orthogonal-and-parsimonious-non-linear-modes-from-turbulent-flows
-  - KTH-FlowAI/9eqModel_KNFandLSTM
-  - KTH-FlowAI/Enhancement-of-PIV-via-PINNs
+  # - HamidrezaEiv/FE2-Computations-With-Deep-Neural-Networks
+  # - KTH-FlowAI/Physics-informed-neural-networks-for-solving-Reynolds-averaged-Navier-Stokes-equations
+  # - KTH-FlowAI/Physics-informed-deep-learning-applications-to-experimental-fluid-mechanics
+  # - KTH-FlowAI/Towards-extraction-of-orthogonal-and-parsimonious-non-linear-modes-from-turbulent-flows
+  # - KTH-FlowAI/9eqModel_KNFandLSTM
+  # - KTH-FlowAI/Enhancement-of-PIV-via-PINNs

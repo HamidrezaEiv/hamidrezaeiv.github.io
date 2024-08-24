@@ -10,20 +10,24 @@
     abstract = "{Physics-informed neural networks (PINNs) are successful machine-learning methods for the solution and identification of partial differential equations. We employ PINNs for solving the Reynolds-averaged Navier–Stokes equations for incompressible turbulent flows without any specific model or assumption for turbulence and by taking only the data on the domain boundaries. We first show the applicability of PINNs for solving the Navier–Stokes equations for laminar flows by solving the Falkner–Skan boundary layer. We then apply PINNs for the simulation of four turbulent-flow cases, i.e., zero-pressure-gradient boundary layer, adverse-pressure-gradient boundary layer, and turbulent flows over a NACA4412 airfoil and the periodic hill. Our results show the excellent applicability of PINNs for laminar flows with strong pressure gradients, where predictions with less than 1\\% error can be obtained. For turbulent flows, we also obtain very good accuracy on simulation results even for the Reynolds-stress components.}",
     issn = {1070-6631},
     doi = {10.1063/5.0095270},
-    url = {https://doi.org/10.1063/5.0095270},
     pdf = {https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0095270/19816179/075117\_1\_online.pdf},
     selected = {true},
 }
 
 
-@article{eivazi2022towards,
-  title={Towards extraction of orthogonal and parsimonious non-linear modes from turbulent flows},
-  author={Eivazi, Hamidreza and Le Clainche, Soledad and Hoyas, Sergio and Vinuesa, Ricardo},
-  journal={Expert Systems with Applications},
-  volume={202},
-  pages={117038},
-  year={2022},
-  publisher={Elsevier}
+@article{EIVAZI2022117038,
+title = {Towards extraction of orthogonal and parsimonious non-linear modes from turbulent flows},
+journal = {Expert Systems with Applications},
+volume = {202},
+pages = {117038},
+year = {2022},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2022.117038},
+pdf = {https://www.sciencedirect.com/science/article/pii/S0957417422004535/pdfft?md5=33f374adc7d32543803f6ce1ff0b5837&pid=1-s2.0-S0957417422004535-main.pdf},
+author = {Hamidreza Eivazi and Soledad {Le Clainche} and Sergio Hoyas and Ricardo Vinuesa},
+keywords = {Non-linear mode decomposition, Turbulent flows, Variational autoencoders, Convolutional neural networks, Machine learning},
+abstract = {Modal-decomposition techniques are computational frameworks based on data aimed at identifying a low-dimensional space for capturing dominant flow features: the so-called modes. We propose a deep probabilistic-neural-network architecture for learning a minimal and near-orthogonal set of non-linear modes from high-fidelity turbulent-flow data useful for flow analysis, reduced-order modeling and flow control. Our approach is based on β-variational autoencoders (β-VAEs) and convolutional neural networks (CNNs), which enable extracting non-linear modes from multi-scale turbulent flows while encouraging the learning of independent latent variables and penalizing the size of the latent vector. Moreover, we introduce an algorithm for ordering VAE-based modes with respect to their contribution to the reconstruction. We apply this method for non-linear mode decomposition of the turbulent flow through a simplified urban environment, where the flow-field data is obtained based on well-resolved large-eddy simulations (LESs). We demonstrate that by constraining the shape of the latent space, it is possible to motivate the orthogonality and extract a set of parsimonious modes sufficient for high-quality reconstruction. Our results show the excellent performance of the method in the reconstruction against linear-theory-based decompositions, where the energy percentage captured by the proposed method from five modes is equal to 87.36% against 32.41% of the POD. Moreover, we compare our method with available AE-based models. We show the ability of our approach in the extraction of near-orthogonal modes with the determinant of the correlation matrix equal to 0.99, which may lead to interpretability.},
+selected = {true},
 }
 
 @article{eivazi2020deep,

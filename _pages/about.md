@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi there! I'm Hamidreza Eivazi, a Research Assistant and PhD student at the Institute for Software and Systems Engineering at TU Clausthal in Germany. I'm also a member of Research Training Group CircularLIB, where we’re tackling the exciting challenge of making lithium-ion batteries more sustainable. Previously, I was fortunate to spend some time at KTH Royal Institute of Technology in Stockholm, diving into the fascinating world of computational fluid dynamics and machine learning. I also hold a Master’s degree in Aerospace Engineering from the University of Tehran. Along the way, I’ve contributed to a number of publications and presented at international conferences.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Research Interests
+
+I’m passionate about exploring the intersection of scientific machine learning and computational physics. My work focuses on developing physics-informed machine learning models, reduced-order modeling, finite-element simulations, and high-performance computing techniques to tackle complex, multiscale physical problems. I love finding innovative solutions and sharing these discoveries with the broader scientific community.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent [paper](https://arxiv.org/abs/2405.13759) on enhancing multiscale simulation with DeepONets has been accepted in [PAMM](https://onlinelibrary.wiley.com/journal/16177061).
+Our [paper](https://arxiv.org/abs/2405.13759) on enhancing multiscale simulation with DeepONets has been accepted in [PAMM](https://onlinelibrary.wiley.com/journal/16177061)

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Was honored to present KPCA-DeepONets at ICLR Tiny Papers 2024
+title: I was honored to present KPCA-DeepONets at ICLR Tiny Papers 2024
 date: 2024-05-11 12:00:00-0000
 inline: false
 related_posts: false
 ---
 
-Was honored to present [KPCA-DeepONets](https://github.com/HamidrezaEiv/KPCA-DeepONet) at [ICLR](https://iclr.cc/) Tiny Papers 2024.
+I was honored to present [KPCA-DeepONets](https://github.com/HamidrezaEiv/KPCA-DeepONet) at [ICLR](https://iclr.cc/) Tiny Papers 2024.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: <a href='https://www.isse.tu-clausthal.de/'>Institute for Software and Systems Engineering</a>, Clausthal University of Technology.
 

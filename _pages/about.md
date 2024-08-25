@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 **About Me**
 
-Hi there! I'm Hamidreza Eivazi, a Research Assistant and PhD student at the Institute for Software and Systems Engineering at Clausthal University of Technology in Germany. I'm also a member of Research Training Group CircularLIB, where we’re tackling the exciting challenge of making lithium-ion batteries more sustainable. Previously, I was fortunate to spend some time at KTH Royal Institute of Technology in Stockholm, diving into the world of computational fluid dynamics and machine learning. I also hold a Master’s degree in Aerospace Engineering from the University of Tehran. Along the way, I’ve contributed to a number of publications and presented at international conferences.
+Hi there! I'm Hamidreza Eivazi, a Research Assistant and PhD student at the Institute for Software and Systems Engineering at [Clausthal University of Technology](https://www.tu-clausthal.de/) in Germany. I'm also a member of [Research Training Group CircularLIB](https://www.tu-braunschweig.de/en/circularlib), where we’re tackling the exciting challenge of making lithium-ion batteries more sustainable. Previously, I was fortunate to spend some time at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, diving into the world of computational fluid dynamics and machine learning. I also hold a Master’s degree in Aerospace Engineering from the University of Tehran. Along the way, I’ve contributed to a number of publications and presented at international conferences.
 
 **Research Interests**
 

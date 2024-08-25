@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-07-17 12:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our recent [paper](https://arxiv.org/abs/2405.13759) on enhancing multiscale simulation with DeepONets has been accepted in [PAMM](https://onlinelibrary.wiley.com/journal/16177061).

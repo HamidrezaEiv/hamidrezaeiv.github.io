@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Was honored to present KPCA-DeepONets at ICLR Tiny Papers 2024
-date: 2015-11-07 16:11:00-0400
+date: 2024-05-11 12:00:00-0000
 inline: false
 related_posts: false
 ---

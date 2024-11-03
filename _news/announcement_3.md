@@ -14,9 +14,9 @@ In our research, we tackled the challenging problem of predicting how batteries 
 
 **Key Points**:
 
-    - **Probabilistic & Generative:** DiffBatt captures the uncertainties in battery aging and simulates these changes over time effectively.
-    - **Top Performance:** It outperforms other models by predicting battery life with great accuracy across several datasets.
-    - **Scalable & Expressive:** Based on diffusion models, DiffBatt uses classifier-free guidance to generate robust, high-quality degradation curves.
+- **Probabilistic & Generative:** DiffBatt captures the uncertainties in battery aging and simulates these changes over time effectively.
+- **Top Performance:** It outperforms other models by predicting battery life with great accuracy across several datasets.
+- **Scalable & Expressive:** Based on diffusion models, DiffBatt uses classifier-free guidance to generate robust, high-quality degradation curves.
 
 We believe DiffBatt is a crucial step toward establishing a foundational model for battery degradation. By training on diverse datasets, it offers strong generalizability and robustness, paving the way for more sustainable tech solutions.
 

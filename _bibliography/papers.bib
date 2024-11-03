@@ -151,12 +151,19 @@ preview={vae.svg},
   publisher={Elsevier}
 }
 
-@article{eivazi2024enhancing,
-  title={Enhancing Multiscale Simulations with Constitutive Relations-Aware Deep Operator Networks},
-  author={Eivazi, Hamidreza and Alikhani, Mahyar and Tr{\"o}ger, Jendrik-Alexander and Wittek, Stefan and Hartmann, Stefan and Rausch, Andreas},
-  journal={arXiv preprint arXiv:2405.13759},
-  year={2024}
+@article{enhancing2024,
+  author = {Eivazi, Hamidreza and Alikhani, Mahyar and Tr\"oger, Jendrik-Alexander and Wittek, Stefan and Hartmann, Stefan and Rausch, Andreas},
+  title = {Enhancing multiscale simulations with constitutive relations-aware deep operator networks},
+  journal = {PAMM},
+  volume = {24},
+  number = {2},
+  pages = {e202400123},
+  doi = {https://doi.org/10.1002/pamm.202400123},
+  html = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/pamm.202400123},
+  abstract = {Abstract Multiscale problems are widely observed across diverse domains in physics and engineering. Translating these problems into numerical simulations and solving them using numerical schemes, for example, the finite element method, is costly due to the demand of solving initial boundary-value problems at multiple scales. On the other hand, multiscale finite element computations are commended for their ability to integrate micro-structural properties into macroscopic computational analyses using homogenization techniques. Recently, neural operator-based surrogate models have shown trustworthy performance for solving a wide range of partial differential equations. In this work, we propose a hybrid method in which we utilize deep operator networks for surrogate modeling of the microscale physics. This allows us to embed the constitutive relations of the microscale into the model architecture and to predict microscale strains and stresses based on the prescribed macroscale strain inputs. Furthermore, numerical homogenization is carried out to obtain the macroscale quantities of interest. We apply the proposed approach to quasi-static problems of solid mechanics. The results demonstrate that our constitutive relations-aware DeepONet can yield accurate solutions even when being confronted with a restricted dataset during model development.},
+  year = {2024}
 }
+
 
 @incollection{sirmaccek2023potential,
   title={The potential of artificial intelligence for achieving healthy and sustainable societies},
@@ -226,3 +233,14 @@ preview={vae.svg},
   publisher={APS}
 }
 
+@inproceedings{eivazi2024diffbatt,
+title={DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis},
+author={Hamidreza Eivazi and Andr{\'e} Hebenbrock and Raphael Ginster and Steffen Bl{\"o}meke and Stefan Wittek and Christoph Hermann and Thomas S. Spengler and Thomas Turek and Andreas Rausch},
+booktitle={Neurips 2024 Workshop Foundation Models for Science: Progress, Opportunities, and Challenges},
+year={2024},
+html={https://openreview.net/forum?id=EW9sDAuPAS},
+code={https://github.com/HamidrezaEiv/DiffBatt},
+pdf = {https://arxiv.org/pdf/2410.23893v1},
+selected = {true},
+preview={diffbatt.png},
+}

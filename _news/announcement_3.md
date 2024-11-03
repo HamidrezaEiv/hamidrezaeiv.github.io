@@ -13,6 +13,7 @@ Our paper, DiffBatt: A Diffusion Model for Battery Degradation Prediction and Sy
 In our research, we tackled the challenging problem of predicting how batteries degrade over time, a critical issue for advancing green technology and sustainable energy. Our solution, DiffBatt, utilizes advanced techniques from GenAI to accurately model and predict battery health.
 
 **Key Points**:
+
     - **Probabilistic & Generative:** DiffBatt captures the uncertainties in battery aging and simulates these changes over time effectively.
     - **Top Performance:** It outperforms other models by predicting battery life with great accuracy across several datasets.
     - **Scalable & Expressive:** Based on diffusion models, DiffBatt uses classifier-free guidance to generate robust, high-quality degradation curves.

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: DiffBatt has been accepted for the Foundation Models for Science Workshop at NeurIPS 2024! 
-
 date: 2024-15-10 12:00:00-0000
 inline: false
 related_posts: false
 ---
 
-I'm thrilled to share that our paper, "DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis," has been accepted for the [Foundation Models for Science Workshop at NeurIPS 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/FM4Science#tab-accept-poster)!
+Our paper, DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis, has been accepted for the [Foundation Models for Science Workshop at NeurIPS 2024](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/FM4Science#tab-accept-poster)!
 
 ---
 

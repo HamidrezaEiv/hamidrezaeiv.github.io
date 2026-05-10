@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.isse.tu-clausthal.de/'>Institute for Software and Systems Engineering</a>, Clausthal University of Technology.
+subtitle: <a href='https://www.tu-braunschweig.de/en/iam/data-driven-modeling-of-mechanical-systems'>Division Data-Driven Modeling of Mechanical Systems</a>, <a href='https://www.tu-braunschweig.de/en/iam'>Institute of Applied Mechanics</a>, Technische Universität Braunschweig.
 
 
 profile:
@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 **About Me**
 
-Hi there! I'm Hamidreza Eivazi, a Research Assistant and PhD student at the Institute for Software and Systems Engineering at [Clausthal University of Technology](https://www.tu-clausthal.de/) in Germany. I'm also a member of [Research Training Group CircularLIB](https://www.tu-braunschweig.de/en/circularlib), where we’re tackling the exciting challenge of making lithium-ion batteries more sustainable. Previously, I was fortunate to spend some time at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, diving into the world of computational fluid dynamics and machine learning.
+Hamidreza Eivazi is a postdoctoral researcher in the [Division Data-Driven Modeling of Mechanical Systems](https://www.tu-braunschweig.de/en/iam/data-driven-modeling-of-mechanical-systems) at the [Institute of Applied Mechanics](https://www.tu-braunschweig.de/en/iam), [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/), where he joined in January 2026. He received his PhD in Scientific Machine Learning and Multiscale Simulation from [Technische Universität Clausthal](https://www.tu-clausthal.de/) in August 2025, with the grade summa cum laude, under the supervision of [Prof. Andreas Rausch](https://www.isse.tu-clausthal.de/en/about-us/team/institute-administration/prof-dr-andreas-rausch), and was previously a visiting researcher at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm under the supervision of [Prof. Ricardo Vinuesa](https://www.kth.se/profile/rvinuesa?l=en).
 
 **Research Interests**
 
-I’m passionate about exploring the intersection of scientific machine learning and computational physics. My work focuses on developing physics-informed machine learning models, reduced-order modeling, finite-element simulations, and high-performance computing techniques to tackle complex, multiscale physical problems.
+His research focuses on AI for Science and scientific machine learning for computational mechanics, particularly physics-informed neural networks and operators, reduced-order modeling, and surrogate modeling for multiscale systems. During his doctoral work, including his contributions to [CircularLIB](https://www.tu-braunschweig.de/en/circularlib) at Technische Universität Braunschweig, he developed explainable and generative methods for lithium-ion battery degradation prediction; his broader interests include machine learning for turbulence and sustainability-related applications such as weather prediction, flood forecasting, and climate-related modeling.

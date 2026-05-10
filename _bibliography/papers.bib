@@ -1,3 +1,45 @@
+@article{eivazi2026equino,
+  title = {EquiNO: A physics-informed neural operator for multiscale simulations},
+  author = {Eivazi, Hamidreza and Tr{\"o}ger, Jendrik-Alexander and Wittek, Stefan and Hartmann, Stefan and Rausch, Andreas},
+  journal = {Journal of Computational Physics},
+  volume = {554},
+  pages = {114745},
+  year = {2026},
+  doi = {10.1016/j.jcp.2026.114745},
+  html = {https://www.sciencedirect.com/science/article/pii/S0021999126000951},
+  code = {https://github.com/HamidrezaEiv/EquiNO},
+  arxiv = {2504.07976},
+  selected = {true},
+  preview = {equino.png},
+  abstract = {Multiscale problems are ubiquitous in physics. Numerical simulations of such problems by solving partial differential equations at high resolution are computationally too expensive for many-query scenarios, such as uncertainty quantification, remeshing applications, and topology optimization. This limitation has motivated data-driven surrogate models that replace microscale computations with black-box mappings between macroscale quantities. Although these approaches can provide substantial speedups, they often struggle to incorporate microscale physical constraints such as the balance of linear momentum. In this work, we propose the Equilibrium Neural Operator (EquiNO), a physics-informed PDE surrogate in which equilibrium is enforced by construction. EquiNO projects the solution onto divergence-free basis functions obtained through proper orthogonal decomposition, satisfying equilibrium without penalty terms or multi-objective loss functions. We compare EquiNO with variational physics-informed neural and operator networks, as well as purely data-driven operator-learning baselines. The proposed finite element-operator learning framework is applied to quasi-static solid-mechanics problems and yields accurate solutions even with restricted training datasets. EquiNO achieves speedup factors exceeding 8000-fold compared with traditional FE2 simulations while providing a robust and physically consistent surrogate model.},
+}
+
+@article{jeyaraj2026neural,
+  title = {A neural operator-based hybrid microscale model for the multiscale simulation of rate-dependent materials},
+  author = {Jeyaraj, Dhananjeyan and Eivazi, Hamidreza and Tr{\"o}ger, Jendrik-Alexander and Wittek, Stefan and Hartmann, Stefan and Rausch, Andreas},
+  journal = {Theoretical and Applied Mechanics Letters},
+  volume = {16},
+  number = {2},
+  pages = {100636},
+  year = {2026},
+  month = {mar},
+  doi = {10.1016/j.taml.2025.100636},
+  html = {https://www.sciencedirect.com/science/article/pii/S2095034925000686},
+}
+
+@article{dhankhar2025r2rnet,
+  title = {R2RNet: A deep spatiotemporal RaintoRiverNetwork for water level prediction and flood forecasting},
+  author = {Dhankhar, Sakshi and Wittek, Stefan and Eivazi, Hamidreza and Rausch, Andreas},
+  journal = {Journal of Hydrology: Regional Studies},
+  volume = {61},
+  pages = {102571},
+  year = {2025},
+  month = {oct},
+  doi = {10.1016/j.ejrh.2025.102571},
+  html = {https://www.sciencedirect.com/science/article/pii/S2214581825003969},
+  code = {https://github.com/sakshisingh1809/R2RNet},
+}
+
 @inproceedings{eivazi2024diffbatt,
 title={DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis},
 author={Hamidreza Eivazi and Andr{\'e} Hebenbrock and Raphael Ginster and Steffen Bl{\"o}meke and Stefan Wittek and Christoph Hermann and Thomas S. Spengler and Thomas Turek and Andreas Rausch},
@@ -69,14 +111,16 @@ preview={vae.svg},
 }
 
 @article{eivazi2024physics,
-  title={Physics-informed deep-learning applications to experimental fluid mechanics},
-  author={Eivazi, Hamidreza and Wang, Yuning and Vinuesa, Ricardo},
-  journal={Measurement science and technology},
-  volume={35},
-  number={7},
-  pages={075303},
-  year={2024},
-  publisher={IOP Publishing}
+  title = {Physics-informed deep-learning applications to experimental fluid mechanics},
+  author = {Eivazi, Hamidreza and Wang, Yuning and Vinuesa, Ricardo},
+  journal = {Measurement Science and Technology},
+  volume = {35},
+  number = {7},
+  pages = {075303},
+  year = {2024},
+  doi = {10.1088/1361-6501/ad3fd3},
+  html = {https://iopscience.iop.org/article/10.1088/1361-6501/ad3fd3/meta},
+  publisher = {IOP Publishing},
 }
 
 @article{eivazi2023fe2,
@@ -245,4 +289,3 @@ preview={vae.svg},
   year={2022},
   publisher={APS}
 }
-
